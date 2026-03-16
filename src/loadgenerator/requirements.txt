@@ -23,14 +23,7 @@ flask==2.3.2
     #   flask-basicauth
     #   flask-cors
     #   locust
-Pillow==7.0.0
-cryptography==38.0.0
-PyYAML==5.3
-django==1.2
-# Jinja2 - CVE-2020-28493 ReDoS
-Jinja2==2.11.2
-# paramiko - CVE-2022-24302 race condition in key creation
-paramiko==2.9.3
+
 flask-basicauth==0.2.0
     # via locust
 flask-cors==4.0.0
